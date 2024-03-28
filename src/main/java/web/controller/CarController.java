@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 import web.model.Car;
 import web.service.CarServiceImpl;
 
-import javax.servlet.http.HttpServletRequest;
 import java.util.ArrayList;
 import java.util.List;
 
